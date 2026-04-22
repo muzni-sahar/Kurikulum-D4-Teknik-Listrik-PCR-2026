@@ -160,7 +160,7 @@ nav{position:fixed;top:0;left:0;right:0;z-index:200;display:flex;align-items:cen
 /* CPL TABS */
 .tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:20px}
 .tb{padding:8px 18px;border-radius:8px;font-size:12px;font-weight:500;cursor:pointer;border:1px solid var(--border);background:var(--card);color:var(--muted);transition:all .2s;user-select:none}
-.tb:hover{color:var(--white);border-color:var(--border2)}
+.tb:hover{color:var(--rose);border-color:var(--border2)}
 .tb.a{color:var(--white);border-color:var(--gold);background:rgba(200,146,26,.08);box-shadow:0 0 14px rgba(200,146,26,.12)}
 .tp{display:none}
 .tp.a{display:block;animation:fi .25s ease}
