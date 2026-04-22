@@ -500,7 +500,7 @@ footer{position:relative;z-index:1;background:var(--card);border-top:1px solid v
         <th class="th2">PEO 2<br><span style="font-weight:300;font-size:9px">Karakter &amp; Etika</span></th>
         <th class="th3">PEO 3<br><span style="font-weight:300;font-size:9px">Daya Saing Global</span></th>
         <th class="th4">Profil 1<br><span style="font-weight:300;font-size:9px">Designer &amp; Ops</span></th>
-        <th class="th5">Profil 2<br><span style="font-weight:300;font-size:9px">Install &amp; Maint</span></th>
+        <th class="th1">Profil 2<br><span style="font-weight:300;font-size:9px">Install &amp; Maint</span></th>
       </tr>
     </thead>
     <tbody>
