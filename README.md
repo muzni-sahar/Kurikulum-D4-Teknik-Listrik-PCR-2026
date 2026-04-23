@@ -1,7 +1,7 @@
 
 <html lang="id">
 <head>
-<meta charset="UTF-4">
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>OBE — D4 Teknik Listrik | Politeknik Caltex Riau</title>
 <meta name="description" content="Outcome-Based Education: Peta Kurikulum Program Studi D4 Teknik Listrik Politeknik Caltex Riau — PEO, Profil Lulusan, dan CPL">
