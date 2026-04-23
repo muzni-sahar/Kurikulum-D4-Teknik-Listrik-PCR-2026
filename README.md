@@ -6,7 +6,7 @@
 <title>OBE — D4 Teknik Listrik | Politeknik Caltex Riau</title>
 <meta name="description" content="Outcome-Based Education: Peta Kurikulum Program Studi D4 Teknik Listrik Politeknik Caltex Riau — PEO, Profil Lulusan, dan CPL">
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,200;0,700;1,400&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
 :root {
   --bg:      #020c1a;
