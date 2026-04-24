@@ -51,10 +51,10 @@ body{background:var(--bg);color:var(--text);font-family:var(--ff-b);font-weight:
 @keyframes f3{from{transform:translate(0,0)}to{transform:translate(-40px,60px)}}
 
 /* NAV */
-nav{position:fixed;top:0;left:0;right:0;z-index:200;display:flex;align-items:center;justify-content:space-between;padding:0 10px;height:64px;background:rgba(2,12,26,.92);backdrop-filter:blur(24px);border-bottom:1px solid var(--border)}
+nav{position:fixed;top:0;left:0;right:0;z-index:200;display:flex;align-items:center;justify-content:space-between;padding:0 40px;height:64px;background:rgba(2,12,26,.92);backdrop-filter:blur(24px);border-bottom:1px solid var(--border)}
 .nav-brand{display:flex;align-items:center;gap:12px}
 .nav-logo{width:36px;height:36px;border-radius:8px;background:linear-gradient(135deg,var(--gold),var(--gold-l));display:flex;align-items:center;justify-content:center;font-family:var(--ff-d);font-size:12px;font-weight:700;color:#020c1a;flex-shrink:0}
-.nav-main{font-size:13px;font-weight:600;color:var(--white);line-height:1.2}
+.nav-main{font-size:13px;font-weight:100;color:var(--white);line-height:1.2}
 .nav-sub{font-size:10px;color:var(--muted);letter-spacing:.5px}
 .nav-links{display:flex;gap:4px}
 .nav-links a{color:var(--muted);font-size:12px;font-weight:500;text-decoration:none;letter-spacing:.8px;text-transform:uppercase;padding:6px 12px;border-radius:6px;transition:color .2s,background .2s}
