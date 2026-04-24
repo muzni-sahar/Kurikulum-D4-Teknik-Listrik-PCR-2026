@@ -38,7 +38,7 @@
 }
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth}
-body{background:var(--bg);color:var(--text);font-family:var(--ff-b);font-weight:300;line-height:1.6;overflow-x:hidden}
+body{background:var(--bg);color:var(--text);font-family:var(--ff-b);font-weight:100;line-height:1.6;overflow-x:hidden}
 
 /* AMBIENT */
 .ambient{position:fixed;inset:0;pointer-events:none;z-index:0;overflow:hidden}
