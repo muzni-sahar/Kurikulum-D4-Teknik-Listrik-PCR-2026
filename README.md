@@ -45,7 +45,7 @@ body{background:var(--bg);color:var(--text);font-family:var(--ff-b);font-weight:
 .orb{position:absolute;border-radius:50%}
 .o1{width:900px;height:900px;top:-300px;left:-300px;background:radial-gradient(circle,rgba(200,146,26,.05) 0%,transparent 65%);animation:f1 22s ease-in-out infinite alternate}
 .o2{width:700px;height:700px;bottom:-200px;right:-100px;background:radial-gradient(circle,rgba(15,168,128,.05) 0%,transparent 65%);animation:f2 28s ease-in-out infinite alternate}
-.o3{width:500px;height:500px;top:40%;left:60%;background:radial-gradient(circle,rgba(24,120,224,.04) 0%,transparent 65%);animation:f3 18s ease-in-out infinite alternate}
+.o3{width:600px;height:500px;top:40%;left:60%;background:radial-gradient(circle,rgba(24,120,224,.04) 0%,transparent 65%);animation:f3 18s ease-in-out infinite alternate}
 @keyframes f1{from{transform:translate(0,0)}to{transform:translate(80px,80px)}}
 @keyframes f2{from{transform:translate(0,0)}to{transform:translate(-70px,-50px)}}
 @keyframes f3{from{transform:translate(0,0)}to{transform:translate(-40px,60px)}}
